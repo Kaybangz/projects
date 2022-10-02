@@ -114,7 +114,7 @@ Each field is explained in detail below.
 
 ### 3. Creating the steps for the project
 
-1. Before getting into the details of implementing the steps, we suggest you to mentally break down the project into small steps and make a not of the what each step of the project will look like. This helps you to understand the project better and also helps you to implement the steps in a better way.
+1. Before getting into the details of implementing the steps, we suggest you to mentally break down the project into small steps and make a note of the what each step of the project will look like. This helps you to understand the project better and also helps you to implement the steps in a better way.
 
 2. There is no limit for the number of steps that can be created. For each step will have a separate folder for itself. The name of the folder should be the `step` followed by a number. The step names should go like `step0` , `step1`, `step2` and so on...
 
@@ -149,7 +149,7 @@ Each field is explained in detail below.
 
     Each object should have a `text` field that contains the challenge text, this challenge text is visible in the challenges tab in the playground.
 
-The users is supposed to self-assess the challenges themselves before moving to the next steps of the project.So, make sure that the challenges text is clear and concise.
+The users are supposed to self-assess the challenges themselves before moving to the next steps of the project.So, make sure that the challenges text is clear and concise.
 
 We have covered all the instructions that you need to be aware of for creator your first guided project. You can now start working on the project and get it ready for review.
 
